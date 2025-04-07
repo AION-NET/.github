@@ -21,7 +21,7 @@ AION is a powerful system that combines:
 
 ## Mastermind Overview
 
-- `bfi.py`:
+- `bdi.py`:
   - advanced BDI logic
   - LLM calls or advanced synergy
 - `bdi.js`:
