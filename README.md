@@ -2,6 +2,7 @@
 install_aion_markdown() {
     log "Placing aion.md"
     cat << 'EOF' > "$AION_DOCS_PATH"
+    
 # AION Autonomous Environment
 
 AION is a powerful system that combines:
